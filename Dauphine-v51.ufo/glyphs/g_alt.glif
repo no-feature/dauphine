@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.alt" format="1">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="392" y="409" type="line"/>
+      <point x="327" y="409" type="line"/>
+      <point x="327" y="-134" type="line" smooth="yes"/>
+      <point x="327" y="-194"/>
+      <point x="293" y="-245"/>
+      <point x="233" y="-245" type="curve" smooth="yes"/>
+      <point x="173" y="-245"/>
+      <point x="143" y="-204"/>
+      <point x="143" y="-144" type="curve" smooth="yes"/>
+      <point x="143" y="-137" type="line"/>
+      <point x="78" y="-137" type="line"/>
+      <point x="78" y="-159" type="line" smooth="yes"/>
+      <point x="78" y="-249"/>
+      <point x="143" y="-305"/>
+      <point x="233" y="-305" type="curve" smooth="yes"/>
+      <point x="323" y="-305"/>
+      <point x="392" y="-229"/>
+      <point x="392" y="-139" type="curve" smooth="yes"/>
+    </contour>
+    <component base="b.alt" xScale="-1.0" xOffset="426"/>
+  </outline>
+</glyph>

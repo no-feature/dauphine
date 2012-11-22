@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowboth" format="1">
+  <advance width="730"/>
+  <unicode hex="2194"/>
+  <outline>
+    <contour>
+      <point x="532" y="181" type="line"/>
+      <point x="700" y="282" type="line"/>
+      <point x="532" y="383" type="line"/>
+    </contour>
+    <component base="arrowleft"/>
+  </outline>
+</glyph>

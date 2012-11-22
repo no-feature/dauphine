@@ -1,0 +1,431 @@
+feature liga{
+	sub w w w by w_w_w;
+	sub f f l by f_f_l;
+	sub f f i by f_f_i;
+	sub f f by f_f;
+	sub f i by fi;
+	sub f l by fl;
+} liga;
+
+
+feature sups {
+  sub @standard by @superior;
+} sups;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature kern {
+   pos X Y -40;
+   pos X o -40;
+   pos X v -20;
+   pos X y -20;
+   pos X bullet -30;
+   pos X quotesingle -50;
+   pos L T -120;
+   pos L V -100;
+   pos L W -80;
+   pos L Y -120;
+   pos L quotesingle -120;
+   pos L quoteright -80;
+   pos L quotedblright -80;
+   pos L o -20;
+   pos L v -60;
+   pos L w -50;
+   pos L y -50;
+   pos L U -20;
+   pos L bullet -60;
+   pos S T -40;
+   pos S Y -50;
+   pos S V -40;
+   pos S W -30;
+   pos S quotesingle -20;
+   pos K bullet -40;
+   pos o T -120;
+   pos o v -15;
+   pos o w -10;
+   pos o x -15;
+   pos o V -60;
+   pos o Y -60;
+   pos o y -10;
+   pos o X -40;
+   pos T o -120;
+   pos T S -40;
+   pos T space -30;
+   pos T a -60;
+   pos T f -40;
+   pos T g -40;
+   pos T s -30;
+   pos T u -60;
+   pos T v -60;
+   pos T w -60;
+   pos T x -60;
+   pos T z -50;
+   pos T y -60;
+   pos T period -50;
+   pos T comma -50;
+   pos T bullet -40;
+   pos R V -40;
+   pos R T -20;
+   pos R W -20;
+   pos R Y -40;
+   pos R o -20;
+   pos F o -60;
+   pos F J -100;
+   pos F space -30;
+   pos F bullet -40;
+   pos Y S -40;
+   pos Y space -70;
+   pos Y J -140;
+   pos Y period -60;
+   pos Y comma -60;
+   pos Y a -60;
+   pos Y o -60;
+   pos Y f -40;
+   pos Y g -40;
+   pos Y x -40;
+   pos Y y -40;
+   pos Y z -40;
+   pos Y s -40;
+   pos Y u -40;
+   pos Y w -40;
+   pos Y v -60;
+   pos Y X -40;
+   pos Y bullet -60;
+   pos P o -60;
+   pos P period -80;
+   pos P comma -80;
+   pos P T -30;
+   pos P Y -10;
+   pos P V -20;
+   pos P W -15;
+   pos P a -20;
+   pos P s -20;
+   pos P space -40;
+   pos V S -40;
+   pos V space -30;
+   pos V period -40;
+   pos V comma -40;
+   pos V o -60;
+   pos V a -80;
+   pos V bullet -50;
+   pos W space -20;
+   pos Z bullet -40;
+   pos space T -30;
+   pos space V -30;
+   pos space W -20;
+   pos space Y -70;
+   pos a T -50;
+   pos a V -40;
+   pos a Y -60;
+   pos g T -40;
+   pos g Y -40;
+   pos v o -15;
+   pos v T -60;
+   pos v period -20;
+   pos v comma -20;
+   pos v Y -60;
+   pos v X -20;
+   pos s T -30;
+   pos s Y -40;
+   pos x o -15;
+   pos x T -60;
+   pos x Y -40;
+   pos y T -60;
+   pos y period -20;
+   pos y comma -20;
+   pos y o -10;
+   pos y Y -40;
+   pos y X -20;
+   pos r T -40;
+   pos r period -30;
+   pos r comma -30;
+   pos t Y -40;
+   pos u T -60;
+   pos u Y -40;
+   pos f T 40;
+   pos f V 40;
+   pos f Y 40;
+   pos q T -60;
+   pos q Y -40;
+   pos z T -50;
+   pos z Y -40;
+   pos quotesingle J -100;
+   pos quotesingle X -50;
+   pos quotesingle S -20;
+   pos w o -10;
+   pos w T -60;
+   pos w period -20;
+   pos w comma -20;
+   pos w Y -40;
+   pos k T -40;
+   pos k Y -40;
+   pos bullet T -40;
+   pos bullet V -50;
+   pos bullet Y -60;
+   pos bullet X -30;
+   pos bullet Z -20;
+   enum pos @_A V -90;
+   enum pos @_A o -20;
+   enum pos @_A T -100;
+   enum pos @_A W -70;
+   enum pos @_A Y -120;
+   enum pos @_A v -50;
+   enum pos @_A w -50;
+   enum pos @_A t -20;
+   enum pos @_A g -30;
+   enum pos @_A y -40;
+   enum pos @_A U -10;
+   enum pos @_A J -10;
+   enum pos @_A bullet -40;
+   enum pos @_A quotesingle -90;
+   enum pos @_A quotedblleft -90;
+   enum pos @_A quotedblright -90;
+   enum pos @_A quoteleft -90;
+   enum pos @_A quoteright -90;
+   enum pos @_A quotesinglbase -40;
+   enum pos @_A quotedblbase -40;
+   enum pos @_O_left T -40;
+   enum pos @_O_left V -30;
+   enum pos @_O_left W -20;
+   enum pos @_O_left X -40;
+   enum pos @_O_left Y -50;
+   enum pos @_O_left quotesingle -40;
+   pos D T -40;
+   pos D V -30;
+   pos D W -20;
+   pos D X -40;
+   pos D Y -50;
+   pos D quotesingle -40;
+   enum pos [n m p] T -60;
+   enum pos @_n V -20;
+   enum pos @_n Y -40;
+   enum pos @_hyphen Y -60;
+   enum pos @_hyphen T -70;
+   enum pos @_hyphen V -50;
+   enum pos @_hyphen W -30;
+   enum pos @_hyphen X -30;
+   pos h T -60;
+   pos h V -20;
+   pos h Y -40;
+   subtable;
+   enum pos X @_O_left -40;
+   pos X D -40;
+   enum pos X @_hyphen -30;
+   enum pos L @_O_left -40;
+   pos L D -40;
+   enum pos L @_hyphen -40;
+   enum pos K @_O_left -40;
+   pos K D -40;
+   enum pos K @_hyphen -40;
+   enum pos T @_O_left -40;
+   pos T D -40;
+   enum pos T @_A -100;
+   enum pos T @_hyphen -70;
+   enum pos T @_n -60;
+   pos T h -60;
+   enum pos R @_A -20;
+   enum pos R @_O_left -20;
+   pos R D -20;
+   enum pos R @_hyphen -20;
+   enum pos F @_n -70;
+   pos F h -70;
+   enum pos F @_A -120;
+   enum pos F @_O_left -40;
+   pos F D -40;
+   enum pos F @_hyphen -40;
+   enum pos U @_A -10;
+   enum pos Y @_O_left -50;
+   pos Y D -50;
+   enum pos Y @_A -120;
+   enum pos Y @_hyphen -60;
+   enum pos Y @_n -40;
+   pos Y h -40;
+   enum pos J @_A -10;
+   enum pos P @_n -20;
+   pos P h -20;
+   enum pos P @_A -80;
+   enum pos P @_hyphen -40;
+   enum pos V @_A -90;
+   enum pos V @_O_left -30;
+   pos V D -30;
+   enum pos V @_hyphen -50;
+   enum pos V @_n -20;
+   pos V h -20;
+   enum pos W @_O_left -20;
+   pos W D -20;
+   enum pos W @_A -70;
+   enum pos W @_hyphen -30;
+   enum pos Z @_hyphen -20;
+   enum pos Z @_O_left -20;
+   pos Z D -20;
+   enum pos quotesingle @_A -90;
+   enum pos quotesingle @_O_left -40;
+   pos quotesingle D -40;
+   enum pos quoteright @_A -90;
+   enum pos bullet @_A -40;
+   enum pos quoteleft @_A -90;
+   enum pos quotedblleft @_A -90;
+   enum pos quotedblright @_A -90;
+   subtable;
+   pos @_A @_O_left -30;
+   pos @_A @_O_right -30;
+   pos @_A @_hyphen -20;
+   pos @_O_left @_A -30;
+   pos @_O_right @_A -30;
+   pos @_hyphen @_A -20;
+} kern;
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+
+FONTLOG for Dauphine Regular
+---------------------------
+This file provides detailed information on the Dauphine font software.
+This information should be distributed along with the Dauphine fonts and any derivative works.
+
+
+Basic Font Information
+----------------------
+Dessinée dans le contexte du projet d’identité visuelle de l’EPCC École Supérieure d’Art et Design •Grenoble •Valence, la Dauphine est une typographie sans sérif s’inspirant de lettrages relevés sur des cartographies de la fin du XIXe siècle jusqu’au milieu du XXe siècle, et conçue d’après des modèles pour dessinateurs industriels ou cartographes français et américains.
+
+Une forme sans sérif a paru la plus appropriée pour l’identité. D’abord parce que plus « moderne » qu’une sérif, cette forme permet de se rapprocher des signes mono-linéaires utilisés en cartographie tout en faisant référence aux modèles destinés à l’apprentissage de l’écriture.
+
+La Dauphine est l’unique typographie de l’identité visuelle et est utilisée sur l’ensemble des supports. Elle se compose d’un romain et d’une italique dans une graisse entre maigre et moyenne. Afin de créer différents niveaux de lecture en référence à la cartographie, la Dauphine possède un set complet de caractères en exposant. Ainsi, à partir d’un même dessin, d’une même graisse et d’un même corps, il est possible d'obtenir plusieurs niveaux de lecture.
+
+L'écriture de la dénomination l'École Supérieure d’Art et Design •Grenoble •Valence est composée en Dauphine, le caractère typographique créé pour l’identité, sous licence libre OFL (OpenFont License). Élément Open Source du projet, le nom de cette typographie ne renvoie pas directement à l’ÉSAD •Grenoble •Valence pour éviter toute confusion une fois utilisée en dehors du contexte de l’école. 
+
+Une collection de signes relatifs à la géographie et à l’histoire de la région (le Vercors, Grenoble, Valence, le Dauphiné, la Drôme, l’Isère, les anciens logos des deux écoles, …) est en cours de construction et est augmentée collectivement. Le dessin de cette collection doit être homogène dans son apparence (mono-linéarité, épaisseur du tracé, hauteur des glyphs, …) avec l'alphabet Dauphine de manière à constituer une famille cohérente. Spécifique à un territoire, la collection de Dings fait écho aux pictogrammes utilisés en cartographie pour représenter des typologies de lieux ou constructions. Ces dingbats n'apparaissent pas dans les supports fixes de l'identité, mais sont potentiellement utilisables sur tous les autres supports de l'école, comme les affiches et flyers des portes ouvertes ou de conférences, les annonces presses, …
+
+
+Information for Contributors
+----------------------------
+Copyright (C) Novembre 2012 <stdin> (Alexandre Leray & Stéphanie Vilayphiou) avec Charles Mazé & Coline Sunier (www.cataloged.cc)
+
+Dauphine Regular, Slanted and Dings are available at http://www.esad-gv.fr/
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Charles Mazé
+E: charles@cataloged.cc
+W: http://www.cataloged.cc/
+D: 

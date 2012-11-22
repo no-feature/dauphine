@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c.superior" format="1">
+  <advance width="420"/>
+  <outline>
+    <component base="c" yOffset="296"/>
+  </outline>
+</glyph>
