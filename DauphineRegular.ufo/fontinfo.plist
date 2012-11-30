@@ -56,6 +56,8 @@ Une collection de signes relatifs à la géographie et à l’histoire de la ré
 	<string>Regular</string>
 	<key>openTypeNameUniqueID</key>
 	<string>StphanieVilayphiou&amp;AlexandreLeray,ColineSunier&amp;CharlesMaz: Dauphine Regular: 2012</string>
+	<key>openTypeNameVersion</key>
+	<string>0.51</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 	</array>
