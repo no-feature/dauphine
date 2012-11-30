@@ -20,7 +20,7 @@ Une collection de signes relatifs à la géographie et à l’histoire de la ré
 
 Information for Contributors
 ----------------------------
-Copyright (C) Novembre 2012 <stdin> (Alexandre Leray & Stéphanie Vilayphiou) avec Charles Mazé & Coline Sunier (www.cataloged.cc)
+Copyright (C) Novembre 2012 Charles Mazé & Coline Sunier (www.cataloged.cc), <stdin> (Alexandre Leray & Stéphanie Vilayphiou)
 
 Dauphine Regular, Slanted and Dings are available at http://www.esad-gv.fr/
 
