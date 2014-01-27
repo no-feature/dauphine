@@ -31,6 +31,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+Minor by Raphaël: Addition of [Ƀ] (U+0243) to make the font Bitcoin symbol compatible. See manifesto on http://bitcoinsymbol.org
+
 
 Acknowledgements
 -------------------------
@@ -41,4 +43,9 @@ order.)
 N: Charles Mazé
 E: charles@cataloged.cc
 W: http://www.cataloged.cc/
+D: 
+
+N: Raphaël Bastide
+E: bonjour@raphaelbastide.com
+W: http://raphaelbastide.com
 D: 

@@ -1,0 +1,290 @@
+
+# GPOS 
+
+
+lookup kernCrnagehorizontaldansLatinlo {
+  lookupflag 0;
+    pos \A \y -40;
+    pos \A \w -50;
+    pos \A \v -50;
+    pos \A \t -20;
+    pos \A \quotesingle -90;
+    pos \A \quotesinglbase -40;
+    pos \A \quoteright -80;
+    pos \A \quoteleft -80;
+    pos \A \quotedblright -90;
+    pos \A \quotedblleft -80;
+    pos \A \quotedblbase -40;
+    pos \A \o -20;
+    pos \A \hyphen -20;
+    pos \A \g -30;
+    pos \A \bullet -40;
+    pos \A \Y -120;
+    pos \A \W -70;
+    pos \A \V -90;
+    pos \A \U -10;
+    pos \A \T -100;
+    pos \A \O -30;
+    pos \A \J -10;
+    pos \F \space -30;
+    pos \F \o -60;
+    pos \F \n -70;
+    pos \F \hyphen -40;
+    pos \F \bullet -40;
+    pos \F \O -40;
+    pos \F \J -100;
+    pos \F \A -120;
+    pos \J \A -10;
+    pos \K \hyphen -40;
+    pos \K \bullet -40;
+    pos \K \O -40;
+    pos \L \y -50;
+    pos \L \w -50;
+    pos \L \v -60;
+    pos \L \quotesingle -120;
+    pos \L \quoteright -80;
+    pos \L \quotedblright -80;
+    pos \L \o -20;
+    pos \L \hyphen -40;
+    pos \L \bullet -60;
+    pos \L \Y -120;
+    pos \L \W -80;
+    pos \L \V -100;
+    pos \L \U -20;
+    pos \L \T -120;
+    pos \L \O -40;
+    pos \O \quotesingle -40;
+    pos \O \Y -50;
+    pos \O \X -40;
+    pos \O \W -20;
+    pos \O \V -30;
+    pos \O \T -40;
+    pos \O \A -30;
+    pos \P \space -40;
+    pos \P \s -20;
+    pos \P \period -80;
+    pos \P \o -60;
+    pos \P \n -20;
+    pos \P \hyphen -40;
+    pos \P \comma -80;
+    pos \P \a -20;
+    pos \P \Y -10;
+    pos \P \W -15;
+    pos \P \V -20;
+    pos \P \T -30;
+    pos \P \A -80;
+    pos \R \o -20;
+    pos \R \hyphen -20;
+    pos \R \Y -40;
+    pos \R \W -20;
+    pos \R \V -40;
+    pos \R \T -20;
+    pos \R \O -20;
+    pos \R \A -20;
+    pos \S \quotesingle -20;
+    pos \S \Y -50;
+    pos \S \W -30;
+    pos \S \V -40;
+    pos \S \T -40;
+    pos \T \z -50;
+    pos \T \y -60;
+    pos \T \x -60;
+    pos \T \w -60;
+    pos \T \v -60;
+    pos \T \u -60;
+    pos \T \space -30;
+    pos \T \s -30;
+    pos \T \period -50;
+    pos \T \o -120;
+    pos \T \n -60;
+    pos \T \hyphen -70;
+    pos \T \g -40;
+    pos \T \f -40;
+    pos \T \comma -50;
+    pos \T \bullet -40;
+    pos \T \a -60;
+    pos \T \S -40;
+    pos \T \O -40;
+    pos \T \A -100;
+    pos \U \A -10;
+    pos \V \space -30;
+    pos \V \period -40;
+    pos \V \o -60;
+    pos \V \n -20;
+    pos \V \hyphen -50;
+    pos \V \comma -40;
+    pos \V \bullet -50;
+    pos \V \a -80;
+    pos \V \S -40;
+    pos \V \O -30;
+    pos \V \A -90;
+    pos \W \space -20;
+    pos \W \hyphen -30;
+    pos \W \O -20;
+    pos \W \A -70;
+    pos \X \y -20;
+    pos \X \v -20;
+    pos \X \quotesingle -50;
+    pos \X \o -40;
+    pos \X \hyphen -30;
+    pos \X \bullet -30;
+    pos \X \Y -40;
+    pos \X \O -40;
+    pos \Y \z -40;
+    pos \Y \y -40;
+    pos \Y \x -40;
+    pos \Y \w -40;
+    pos \Y \v -60;
+    pos \Y \u -40;
+    pos \Y \space -70;
+    pos \Y \s -40;
+    pos \Y \period -60;
+    pos \Y \o -60;
+    pos \Y \n -40;
+    pos \Y \hyphen -60;
+    pos \Y \g -40;
+    pos \Y \f -40;
+    pos \Y \comma -60;
+    pos \Y \bullet -60;
+    pos \Y \a -60;
+    pos \Y \X -40;
+    pos \Y \S -40;
+    pos \Y \O -50;
+    pos \Y \J -140;
+    pos \Y \A -120;
+    pos \Z \hyphen -20;
+    pos \Z \bullet -40;
+    pos \Z \O -20;
+    pos \a \Y -60;
+    pos \a \V -40;
+    pos \a \T -50;
+    pos \bullet \Z -20;
+    pos \bullet \Y -60;
+    pos \bullet \X -30;
+    pos \bullet \V -50;
+    pos \bullet \T -40;
+    pos \bullet \A -40;
+    pos \f \Y 40;
+    pos \f \V 40;
+    pos \f \T 40;
+    pos \g \Y -40;
+    pos \g \T -40;
+    pos \hyphen \Y -60;
+    pos \hyphen \X -30;
+    pos \hyphen \W -30;
+    pos \hyphen \V -50;
+    pos \hyphen \T -70;
+    pos \hyphen \A -20;
+    pos \k \Y -40;
+    pos \k \T -40;
+    pos \n \Y -40;
+    pos \n \V -20;
+    pos \n \T -60;
+    pos \o \y -10;
+    pos \o \x -15;
+    pos \o \w -10;
+    pos \o \v -15;
+    pos \o \Y -60;
+    pos \o \X -40;
+    pos \o \V -60;
+    pos \o \T -120;
+    pos \q \Y -40;
+    pos \q \T -60;
+    pos \quotedblleft \A -90;
+    pos \quotedblright \A -90;
+    pos \quoteleft \A -80;
+    pos \quoteright \A -80;
+    pos \quotesinglbase \A 0;
+    pos \quotesingle \X -50;
+    pos \quotesingle \S -20;
+    pos \quotesingle \O -40;
+    pos \quotesingle \J -100;
+    pos \quotesingle \A -80;
+    pos \r \period -30;
+    pos \r \comma -30;
+    pos \r \T -40;
+    pos \s \Y -40;
+    pos \s \T -30;
+    pos \space \Y -70;
+    pos \space \W -20;
+    pos \space \V -30;
+    pos \space \T -30;
+    pos \t \Y -40;
+    pos \u \Y -40;
+    pos \u \T -60;
+    pos \v \period -20;
+    pos \v \o -15;
+    pos \v \comma -20;
+    pos \v \Y -60;
+    pos \v \X -20;
+    pos \v \T -60;
+    pos \w \period -20;
+    pos \w \o -10;
+    pos \w \comma -20;
+    pos \w \Y -40;
+    pos \w \T -60;
+    pos \x \o -15;
+    pos \x \Y -40;
+    pos \x \T -60;
+    pos \y \period -20;
+    pos \y \o -10;
+    pos \y \comma -20;
+    pos \y \Y -40;
+    pos \y \X -20;
+    pos \y \T -60;
+    pos \z \Y -40;
+    pos \z \T -50;
+} kernCrnagehorizontaldansLatinlo;
+
+feature kern {
+
+  script latn;
+     language dflt ;
+      lookup kernCrnagehorizontaldansLatinlo;
+} kern;
+
+@GDEF_Simple = [\.null \A \AE \Aacute \Acircumflex \Adieresis \Agrave \Amacron 
+	\Aogonek \Aring \Atilde \B \C \Cacute \Ccaron \Ccedilla \D \Dcaron \Dcroat \E 
+	\Eacute \Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave \Emacron \Eogonek 
+	\Eth \Euro \F \G \H \I \Iacute \Icircumflex \Idieresis \Igrave \Iogonek \J \K \L 
+	\Lcaron \Lslash \M \N \Nacute \Ncaron \Ntilde \O \OE \Oacute \Ocircumflex 
+	\Odieresis \Ograve \Omacron \Oslash \Otilde \P \Q \R \Racute \Rcaron \S \Sacute 
+	\Scaron \T \Tcaron \U \Uacute \Ucircumflex \Udieresis \Ugrave \Uhungarumlaut 
+	\Umacron \Uogonek \Uring \V \W \X \Y \Yacute \Ydieresis \Z \Zacute \Zcaron 
+	\Zdotaccent \a \a.alt \a.superior \aacute \acircumflex \acute \acute.case 
+	\adieresis \ae \agrave \amacron \ampersand \aogonek \aring \arrowboth \arrowdown 
+	\arrowleft \arrowright \arrowup \arrowupdn \asciicircum \asciitilde \asterisk 
+	\at \atilde \b \b.alt \b.superior \backslash \bar \braceleft \braceright 
+	\bracketleft \bracketright \breve \breve.case \bullet \bullet.alt \c 
+	\c.superior \cacute \caron \caron.case \ccaron \ccedilla \cedilla \cent 
+	\circumflex \circumflex.case \colon \comma \copyright \d \d.superior \dagger 
+	\daggerdbl \degree \dieresis \dieresis.case \divide \dollar \dotaccent 
+	\dotaccent.case \dotlessi \e \e.superior \eacute \eacute.superior \ecaron 
+	\ecircumflex \edieresis \edotaccent \egrave \eight \ellipsis \emacron \emdash 
+	\endash \eogonek \equal \exclam \exclamdown \f \f.superior \f_f \f_f_i \f_f_l \fi 
+	\filledbox \five \fl \florin \four \g \g.alt \g.superior \germandbls \grave 
+	\grave.case \greater \greaterequal \guillemotleft \guillemotright 
+	\guilsinglleft \guilsinglright \h \h.superior \hungarumlaut 
+	\hungarumlaut.case \hyphen \i \i.superior \iacute \icircumflex \idieresis 
+	\igrave \imacron \iogonek \j \j.superior \k \k.superior \l \l.superior \less 
+	\lessequal \logicalnot \lozenge \lslash \m \m.superior \macron \macron.case 
+	\multiply \n \n.superior \nacute \ncaron \nine \notequal \ntilde \numbersign \o 
+	\o.superior \oacute \ocircumflex \odieresis \oe \ogonek \ogonek.case \ograve 
+	\ohungarumlaut \omacron \one \openbullet \ordfeminine \ordmasculine \oslash 
+	\otilde \p \p.superior \paragraph \parenleft \parenright \percent \period 
+	\period.superior \periodcentered \plus \plusminus \q \q.superior \question 
+	\questiondown \quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft 
+	\quoteright \quotesinglbase \quotesingle \r \r.superior \racute \rcaron 
+	\registered \ring \ring.case \s \s.superior \sacute \scaron \section \semicolon 
+	\seven \six \slash \space \sterling \t \t.superior \thinspace \three \tilde 
+	\tilde.case \two \u \u.superior \uacute \ucircumflex \udieresis \ugrave 
+	\uhungarumlaut \umacron \underscore \uni202F \uni2196 \uni2197 \uni2198 
+	\uni2199 \uogonek \uring \v \v.superior \w \w.superior \w_w_w \x \x.superior \y 
+	\y.alt \y.superior \yacute \ydieresis \yen \z \z.superior \zacute \zcaron 
+	\zdotaccent \zero \uni0243 \uni00A0 \thorn \uni0259 \eth ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

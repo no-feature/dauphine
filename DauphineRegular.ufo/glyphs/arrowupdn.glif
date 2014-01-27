@@ -3,11 +3,11 @@
   <advance width="322"/>
   <unicode hex="2195"/>
   <outline>
+    <component base="arrowup"/>
     <contour>
       <point x="262" y="168" type="line"/>
       <point x="161" y="0" type="line"/>
       <point x="60" y="168" type="line"/>
     </contour>
-    <component base="arrowup"/>
   </outline>
 </glyph>

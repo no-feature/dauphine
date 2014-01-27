@@ -3,13 +3,13 @@
   <advance width="570"/>
   <unicode hex="0025"/>
   <outline>
+    <component base="degree" xOffset="235" yOffset="-490"/>
+    <component base="degree"/>
     <contour>
       <point x="449" y="705" type="line"/>
       <point x="518" y="705" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="53" y="0" type="line"/>
     </contour>
-    <component base="degree"/>
-    <component base="degree" xOffset="235" yOffset="-490"/>
   </outline>
 </glyph>

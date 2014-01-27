@@ -3,12 +3,12 @@
   <advance width="510"/>
   <unicode hex="0141"/>
   <outline>
+    <component base="L" xOffset="35"/>
     <contour>
       <point x="280" y="457" type="line"/>
       <point x="20" y="317" type="line"/>
       <point x="20" y="247" type="line"/>
       <point x="280" y="387" type="line"/>
     </contour>
-    <component base="L" xOffset="35"/>
   </outline>
 </glyph>

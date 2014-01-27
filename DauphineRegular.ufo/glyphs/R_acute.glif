@@ -3,13 +3,13 @@
   <advance width="552"/>
   <unicode hex="0154"/>
   <outline>
+    <component base="P"/>
+    <component base="acute.case" xOffset="166"/>
     <contour>
       <point x="261" y="326" type="line"/>
       <point x="341" y="326" type="line"/>
       <point x="517" y="0" type="line"/>
       <point x="437" y="0" type="line"/>
     </contour>
-    <component base="acute.case" xOffset="166"/>
-    <component base="P"/>
   </outline>
 </glyph>

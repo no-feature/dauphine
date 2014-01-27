@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.superior" format="1">
+  <advance width="455"/>
+  <outline>
+    <component base="b.alt" xOffset="16" yOffset="296"/>
+    <contour>
+      <point x="115" y="161" type="line"/>
+      <point x="50" y="161" type="line"/>
+      <point x="50" y="705" type="line"/>
+      <point x="115" y="705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,12 +2,12 @@
 <glyph name=".null" format="1">
   <advance width="540"/>
   <outline>
+    <component base=".notdef"/>
     <contour>
       <point x="466" y="670" type="line"/>
       <point x="387" y="670" type="line"/>
       <point x="88" y="47" type="line"/>
       <point x="167" y="47" type="line"/>
     </contour>
-    <component base=".notdef"/>
   </outline>
 </glyph>
